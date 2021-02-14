@@ -1,3 +1,4 @@
 den ca con khi cung biet dung git
 add: Đăng ký thay đổi trong index
 commit: luu lai trang thai cua index
+pull: lay noi dung cua remote repository
